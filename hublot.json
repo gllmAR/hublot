@@ -1,0 +1,43 @@
+{
+	"pattrstorage" : 	{
+		"name" : "hublot",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tuyoToScreen::numberOfTouchs" : [ 20 ],
+					"tuyoToScreen::swapXY" : [ 0 ],
+					"hublotJaune::scale" : [ 1.6, 1.5, 1.0 ],
+					"touchsStates::lifeTime" : [ 30 ],
+					"touchsStates::voices" : [ 50 ],
+					"dsp::driver" : [ "Core Audio" ],
+					"dsp::dsp" : [ 1 ],
+					"dsp::output" : [ "Built-in Output" ],
+					"tuioVoiceArgs::life" : [ 100 ],
+					"tuioVoiceArgs::scaler" : [ 0.1 ],
+					"render::pattrWorld::world.fps" : [ 60.0, "hz" ],
+					"isInteractive::nombreDeBangThresholdEntreInteractivite" : [ 500 ],
+					"init::fullScreenDelay" : [ 25000 ],
+					"init::reloadMovieDelay" : [ 20000 ],
+					"init::stopInitDelay" : [ 50000 ],
+					"init::startFullscreen" : [ 1 ],
+					"granulator::graineAttackPos" : [ 0.2 ],
+					"granulator::graineAttackTemps" : [ 50 ],
+					"granulator::graineFadeIn" : [ 0.25 ],
+					"granulator::graineFadeOut" : [ 0.75 ],
+					"granulator::graineGain" : [ -4.119802 ],
+					"granulator::graineLongueur" : [ 500 ],
+					"granulator::graineReleaseTemps" : [ 33 ],
+					"granulator::graineSubstainRnd" : [ 0.7 ],
+					"granulator::graineVitesse" : [ 1.0 ],
+					"granulator::graineVolume" : [ 0.01 ],
+					"sphereMix::sphereMix" : [ -7.16727 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
