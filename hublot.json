@@ -20,7 +20,7 @@
 					"init::fullScreenDelay" : [ 25000 ],
 					"init::reloadMovieDelay" : [ 20000 ],
 					"init::stopInitDelay" : [ 50000 ],
-					"init::startFullscreen" : [ 1 ],
+					"init::startFullscreen" : [ 0 ],
 					"granulator::graineAttackPos" : [ 0.2 ],
 					"granulator::graineAttackTemps" : [ 50 ],
 					"granulator::graineFadeIn" : [ 0.25 ],
@@ -31,7 +31,9 @@
 					"granulator::graineSubstainRnd" : [ 0.7 ],
 					"granulator::graineVitesse" : [ 1.0 ],
 					"granulator::graineVolume" : [ 0.01 ],
-					"sphereMix::sphereMix" : [ -7.16727 ]
+					"sphereMix::sphereMix" : [ -7.16727 ],
+					"voicePoly::nbSphere" : [ 12 ],
+					"voicePoly::nbVideo" : [ 10 ]
 				}
 
 			}

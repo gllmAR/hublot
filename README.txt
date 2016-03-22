@@ -33,4 +33,8 @@ La touche s permet de sauvegarder la configuration actuelle.
 	https://docs.cycling74.com/max5/tutorials/msp-tut/mspaudioio.html
 
 
-* 
+### Todo 
+
+Allocation dynamique de nouveaux videos (soft assignation / load reload movie)
+
+ 
